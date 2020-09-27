@@ -1,0 +1,4 @@
+baseURL = "https://stephane303.github.io/"
+languageCode = "en-us"
+title = "<Coder></Coder>"
+theme = "ananke" 
